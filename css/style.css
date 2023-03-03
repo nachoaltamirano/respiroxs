@@ -1204,7 +1204,7 @@ ul.social-media li a:hover {
 		Fetured  Area Start 
 ---------------------------------*/
 #feture-area {
-  background: url(../img/home2/feture-bg.jpg) no-repeat;
+  background: url(../img/home2/mexico.jpg) no-repeat;
   background-size: cover;
   margin-top: 50px; }
   #feture-area .feture-overlay {
@@ -2494,7 +2494,7 @@ ul.writer-profile {
 		Feature Area Start
 ---------------------------------*/
 #feture-area-home3 {
-  background: url(../img/home3/feture-bg.jpg) 50% 0 no-repeat fixed;
+  background: url(../img/home2/serena.jpg) 50% 0 no-repeat fixed;
   padding: 55px 0; }
   #feture-area-home3 .overlay-bg-home3 {
     background: rgba(0, 0, 0, 0.8); }
